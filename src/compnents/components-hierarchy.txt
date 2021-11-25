@@ -1,0 +1,20 @@
+1)App
+
+2)StatsContainer
+    StatsItem
+    StatsItem
+    StatsItem
+
+
+3)CustomersContainer
+    SearchBox - form controlled inputs 
+    CustomersTable
+
+4)OrdersContainer
+    OrdersTable
+    OrdersChart
+
+    const result = uniqueCustomers.filter(function(c){
+                return ele.Name.toLowerCase().includes(text) || ele.Phone.toString().includes(text);
+            })
+        return result;

@@ -1,0 +1,17 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: whitesmoke;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+input:focus {
+  outline: none;
+}
+/*# sourceMappingURL=Main.css.map */
